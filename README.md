@@ -1,3 +1,8 @@
+---
+layout: default
+title: README
+---
+
 # Dukes’s Wine List
 ## Intro
 	On July 25th, 2022 Dukes Beachhouse Maui will be rolling out a new wine list as well as updating some cocktails and adding a larger beer pour option.  Now I have always been impressed with how well TS Restaurants seems to have their shit together, especially when it comes to informing their teams, but in the past they have treated changes to the wine lists like every other restaurant does: they print out the “Tech Sheet” or “Sell Sheet” that the winery/vendor has on the wine and then put them together in a printed packet to hand out to the servers.  Over the past two decades, I have seen it done this way in every restaurant I have been affiliated with.  It’s the way it is done, and the service industry doesn’t change easily.
@@ -18,7 +23,7 @@
 	Flip around and look at whatever you want! I would suggest you glance at how the flavors work first, glance through the tips and tricks, and then choose the list from below that works best for you!
 ### For those who know more than me:
 	There’s probably a lot of you! I would head to the page of lists, the reviews.  Here I have broken down the wines by multiple different methods
- - **By the List** $\rightarrow$ Organized just like Dukes has it, by the glass first and then bottled wine in order of wine style
+ - **By the List** $$\rightarrow$$ Organized just like Dukes has it, by the glass first and then bottled wine in order of wine style
 	 - One list will just have one or two words to describe each wine
 	 - One list will have the scores of the wines
  - **By style** $\rightarrow$ Organized by wine style, glasses and bottles mixed. 
